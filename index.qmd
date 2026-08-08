@@ -1,6 +1,7 @@
 ---
 title: "TP-W10-Shopify Store - Assignment 8 - Store Testing and Analytics Review"
 author: "Kevin Bachez"
+date: today
 format:
   html:
     embed-resources: true
@@ -20,7 +21,7 @@ For this test, I followed the customer journey from the homepage to a collection
 
 # 1. Customer Journey Test
 
-# Homepage
+## Homepage
 
 I began the customer journey on the CPP Farm Store homepage. I reviewed the store as if I were a first-time customer and checked whether the store's navigation, products, and overall shopping experience were easy to understand.
 
@@ -28,13 +29,13 @@ The homepage provides access to the main navigation menu and featured products. 
 
 The homepage also includes a "Shop all" button that allows customers to begin browsing products.
 
-# Screenshot 1: CPP Farm Store Homepage
+## Screenshot 1: CPP Farm Store Homepage
 
 ![](Images/Homepage.png)
 
 The homepage served as the starting point of the customer journey. It provides access to the main navigation menu, featured products, and a "Shop all" button that directs customers toward the product catalog.
 
-# Collection Page
+## Collection Page
 
 Next, I navigated from the homepage to the Fresh Produce collection.
 
@@ -42,13 +43,13 @@ The Fresh Produce collection displayed four products, including a seasonal veget
 
 The collection page also included availability and price filters as well as sorting options. These features make it easier for customers to browse and compare products.
 
-# Screenshot 2: Fresh Produce Collection
+## Screenshot 2: Fresh Produce Collection
 
 ![](Images/Fresh-produce-collection.png)
 
 The Fresh Produce collection organizes the available products in one location and gives customers filtering and sorting options that can make the shopping process more efficient.
 
-# Product Page and Shopping Cart
+## Product Page and Shopping Cart
 
 I selected CPP Fresh Strawberries from the Fresh Produce collection and reviewed the individual product page.
 
@@ -58,7 +59,7 @@ I then added one CPP Fresh Strawberries item to the shopping cart. The cart corr
 
 I did not complete a real transaction because the purpose of this assignment was to test the shopping experience without making an actual purchase.
 
-# Screenshot 3: CPP Fresh Strawberries and Shopping Cart
+## Screenshot 3: CPP Fresh Strawberries and Shopping Cart
 
 ![](Images/FreshStrawberries%2BCart.png)
 
@@ -68,7 +69,7 @@ Overall, the customer journey successfully allowed me to move from the homepage 
 
 # 2. Store Strengths
 
-# Strength 1: Organized Product Categories
+## Strength 1: Organized Product Categories
 
 One strength of the CPP Farm Store Shopify prototype is its organized product categories.
 
@@ -76,7 +77,7 @@ Customers can browse categories including Fresh Produce, Specialty Foods & Pantr
 
 The Fresh Produce collection also includes filters and sorting options that can help customers browse products more efficiently.
 
-# Strength 2: Clear Product Pages
+## Strength 2: Clear Product Pages
 
 Another strength is the individual product page design.
 
@@ -84,7 +85,7 @@ The CPP Fresh Strawberries product page clearly displays the product image, prod
 
 Providing this information in one location makes it easier for customers to understand the product and decide whether they want to add it to their shopping cart.
 
-# Strength 3: Simple Customer Journey
+## Strength 3: Simple Customer Journey
 
 The store provides a simple and understandable shopping journey.
 
@@ -94,7 +95,7 @@ The main navigation menu also remains available throughout the shopping experien
 
 # 3. Areas for Improvement
 
-# Improvement 1: Store Branding
+## Improvement 1: Store Branding
 
 One area that should be improved is the store branding.
 
@@ -102,7 +103,7 @@ The Shopify prototype currently displays generic text such as "My Store" and "We
 
 Before the final submission, I plan to replace this text with CPP Farm Store branding so customers can immediately recognize the retailer when entering the website.
 
-# Improvement 2: Homepage Presentation
+## Improvement 2: Homepage Presentation
 
 The homepage could provide more information specifically related to the CPP Farm Store.
 
@@ -110,7 +111,7 @@ The current homepage includes the message "Browse our latest products." While th
 
 This would create a stronger connection between the Shopify prototype and the physical CPP Farm Store.
 
-# Improvement 3: Product Information
+## Improvement 3: Product Information
 
 Some product pages could include additional information to help customers make purchasing decisions.
 
@@ -126,7 +127,7 @@ During my testing, the GA4 dashboard displayed 1 active user and an event count 
 
 This provides evidence that the Shopify store is sending customer activity to Google Analytics 4.
 
-# Screenshot 4: Google Analytics 4
+## Screenshot 4: Google Analytics 4
 
 ![](Images/GA4.png)
 
@@ -154,10 +155,10 @@ Finally, reviewing Google Analytics 4 confirmed that website activity is being r
 
 # Appendix
 
-# GitHub Pages
+## GitHub Pages
 
-[View Published Assignment](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+[View Published Assignment](<https://kebachez.github.io/Assignment-8---Store-Testing-and-Analytics-Review/>)
 
-# GitHub Repository
+## GitHub Repository
 
 [View GitHub Repository](<https://github.com/kebachez/Assignment-8---Store-Testing-and-Analytics-Review.git>)
